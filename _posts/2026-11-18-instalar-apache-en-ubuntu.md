@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Instalar Apache en Ubuntu Server"
-date:   2026-10-01 10:00:00 +0000
+date:   2026-11-18 10:00:00 +0000
 categories: servidores
 tags: [apache, ubuntu, http]
 ---

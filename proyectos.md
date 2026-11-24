@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contacto
+title: Proyectos
 ---
 
 Prácticas realizadas durante el curso:
